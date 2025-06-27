@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\net9PJ\\InferencingSample\\InferencingSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8FEAC5-105C-43B5-B155-754C6C0580BC}|MauiApp1\\MauiApp1.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8FEAC5-105C-43B5-B155-754C6C0580BC}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2207548-438C-4DA6-AA91-582E1066798F}|InferencingSample\\InferencingSample.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsample\\inferencingsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2207548-438C-4DA6-AA91-582E1066798F}|InferencingSample\\InferencingSample.csproj|solutionrelative:inferencingsample\\inferencingsample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\embedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\embedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\fas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\fas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\inferencingsamplecore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\inferencingsamplecore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\checkquality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\checkquality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\checkpose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\checkpose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsamplecore\\aligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECAEB2E7-5A44-A6D4-B89F-32F87A14632D}|InferencingSampleCore\\InferencingSampleCore.csproj|solutionrelative:inferencingsamplecore\\aligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2207548-438C-4DA6-AA91-582E1066798F}|InferencingSample\\InferencingSample.csproj|d:\\net9pj\\inferencingsample\\inferencingsample\\inferencingsample\\aligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2207548-438C-4DA6-AA91-582E1066798F}|InferencingSample\\InferencingSample.csproj|solutionrelative:inferencingsample\\aligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xamarin.Android.Common.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\35.0.78\\tools\\Xamarin.Android.Common.targets",
+              "ViewState": "AgIAAAYGAAAAAAAAAAAswBUGAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-24T09:56:47.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckQuality.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\CheckQuality.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\CheckQuality.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\CheckQuality.cs",
+              "RelativeToolTip": "InferencingSampleCore\\CheckQuality.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAlwEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:18:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fas.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Fas.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\Fas.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Fas.cs",
+              "RelativeToolTip": "InferencingSampleCore\\Fas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:20:30.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\MauiApp1\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcBAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T18:47:24.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InferencingSample.csproj",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSample\\InferencingSample.csproj",
+              "RelativeDocumentMoniker": "InferencingSample\\InferencingSample.csproj",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSample\\InferencingSample.csproj",
+              "RelativeToolTip": "InferencingSample\\InferencingSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T02:46:20.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Embedding.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Embedding.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\Embedding.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Embedding.cs",
+              "RelativeToolTip": "InferencingSampleCore\\Embedding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:20:24.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InferencingSampleCore.csproj",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\InferencingSampleCore.csproj",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\InferencingSampleCore.csproj",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\InferencingSampleCore.csproj",
+              "RelativeToolTip": "InferencingSampleCore\\InferencingSampleCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T09:18:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckPose.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\CheckPose.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\CheckPose.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\CheckPose.cs",
+              "RelativeToolTip": "InferencingSampleCore\\CheckPose.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowJ8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:20:20.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Aligner.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Aligner.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\Aligner.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Aligner.cs",
+              "RelativeToolTip": "InferencingSampleCore\\Aligner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T03:19:53.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Detector.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Detector.cs",
+              "RelativeDocumentMoniker": "InferencingSampleCore\\Detector.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSampleCore\\Detector.cs",
+              "RelativeToolTip": "InferencingSampleCore\\Detector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:20:34.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAADwBAAAAAAAAAAAcwEIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-12T09:02:11.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aligner.cs",
+              "DocumentMoniker": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSample\\Aligner.cs",
+              "RelativeDocumentMoniker": "InferencingSample\\Aligner.cs",
+              "ToolTip": "D:\\net9PJ\\InferencingSample\\InferencingSample\\InferencingSample\\Aligner.cs",
+              "RelativeToolTip": "InferencingSample\\Aligner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T07:52:41.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

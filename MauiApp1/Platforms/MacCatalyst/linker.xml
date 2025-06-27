@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+  <assembly fullname="InferencingSampleCore" preserve="all" />
+  <assembly fullname="MauiApp1" preserve="all" />
+  <assembly fullname="Microsoft.ML.OnnxRuntime" preserve="all" />
+  <assembly fullname="MathNet.Numerics" preserve="all" />
+  <assembly fullname="SkiaSharp" preserve="all" />
+  <assembly fullname="System.Drawing.Common" preserve="all" />
+  <assembly fullname="System.Runtime" preserve="all" />
+  <assembly fullname="System.Runtime.InteropServices" preserve="all" />
+  <assembly fullname="System.Numerics" preserve="all" />
+  <assembly fullname="System.Memory" preserve="all" />
+  <assembly fullname="System.Private.CoreLib" preserve="all" />
+  <assembly fullname="System.Private.Windows.Core" preserve="all" />
+  
+  <!-- Preserve ONNX Runtime specific types -->
+  <assembly fullname="Microsoft.ML.OnnxRuntime">
+    <type fullname="Microsoft.ML.OnnxRuntime.InferenceSession" preserve="all" />
+    <type fullname="Microsoft.ML.OnnxRuntime.NamedOnnxValue" preserve="all" />
+    <type fullname="Microsoft.ML.OnnxRuntime.RunOptions" preserve="all" />
+    <type fullname="Microsoft.ML.OnnxRuntime.SessionOptions" preserve="all" />
+    <type fullname="Microsoft.ML.OnnxRuntime.Tensors.Tensor" preserve="all" />
+  </assembly>
+  
+  <!-- Preserve System types for interop -->
+  <assembly fullname="System.Runtime.InteropServices">
+    <type fullname="System.Runtime.InteropServices.Marshal" preserve="all" />
+    <type fullname="System.Runtime.InteropServices.DllImportAttribute" preserve="all" />
+  </assembly>
+</linker> 

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Maui.Controls;assembly=SkiaSharp.Views.Maui.Controls"
+             x:Class="MauiApp1.MainPage">
+    <Grid>
+        <!-- SKCanvasView to display the selected image -->
+        <skia:SKCanvasView x:Name="canvasView" PaintSurface="OnCanvasViewPaintSurface"/>
+
+        <!-- Bottom-left button to select image -->
+        <Button x:Name="GetImgButton" Text="Select Image" Clicked="OnSelectImageButtonClicked"
+                HorizontalOptions="Start" VerticalOptions="End"/>
+
+        <!-- Bottom-right button to use the selected image -->
+        <Button x:Name="UseImgButton" Text="Use Image" Clicked="OnUseImageButtonClicked"
+                HorizontalOptions="End" VerticalOptions="End"/>
+    </Grid>
+</ContentPage>

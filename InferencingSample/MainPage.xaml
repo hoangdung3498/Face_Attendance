@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             x:Class="InferencingSample.MainPage">
+    <!--<Grid>
+        <Button Text="Select Image" Margin="20" Clicked="OnSelectImageButtonClicked"
+                HorizontalOptions="Start" VerticalOptions="End"/>
+        <Button
+            x:Name="RunButton"
+            Text="Run"
+            Margin="20"
+            HorizontalOptions="End"
+            VerticalOptions="End"
+            Clicked="RunButton_Clicked" />
+     </Grid>-->
+    <Grid>
+        <!-- SKCanvasView to display the selected image -->
+        <forms:SKCanvasView x:Name="canvasView" PaintSurface="OnCanvasViewPaintSurface"/>
+
+        <!-- Bottom-left button to select image -->
+        <Button x:Name="GetImgButton" Text="Select Image" Clicked="OnSelectImageButtonClicked"
+                HorizontalOptions="Start" VerticalOptions="End"/>
+
+        <!-- Bottom-right button to use the selected image -->
+        <Button x:Name="UseImgButton" Text="Use Image" Clicked="OnUseImageButtonClicked"
+                HorizontalOptions="End" VerticalOptions="End"/>
+    </Grid>
+</ContentPage>
