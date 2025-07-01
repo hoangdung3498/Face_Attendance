@@ -136,7 +136,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="../InferencingSampleCore/InferencingSampleCore.csproj" />
+	  <PackageReference Include="InferencingSampleCore" Version="1.0.2" />
 	</ItemGroup>
 
 	<!-- Platform-specific linker files -->
